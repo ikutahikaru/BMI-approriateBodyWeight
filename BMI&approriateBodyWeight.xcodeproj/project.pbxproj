@@ -512,6 +512,7 @@
 				330294361E0A8735007E14FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		330294371E0A8735007E14FF /* Build configuration list for PBXNativeTarget "BMI&approriateBodyWeightTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +521,7 @@
 				330294391E0A8735007E14FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3302943A1E0A8735007E14FF /* Build configuration list for PBXNativeTarget "BMI&approriateBodyWeightUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +530,7 @@
 				3302943C1E0A8735007E14FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
